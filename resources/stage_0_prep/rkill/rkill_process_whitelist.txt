@@ -49,3 +49,6 @@ C:\Windows\System32\conhost.exe
 %systemdrive%\Documents and Settings\All Users\Application Data\JWrapper-Remote Access\JWrapper-Windows32JRE-00000000000-complete\bin\Remote Access.exe
 %systemdrive%\Documents and Settings\Administrator\Application Data\JWrapper-Remote Support\JWrapper-Windows32JRE-00028603591-complete\bin\javaw.exe
 %WINDIR%\System32\wt.exe
+%WINDIR%\System32\WindowsTerminal.exe
+C:\Program Files\WindowsApps\Microsoft.WindowsTerminal\wt.exe
+C:\Program Files\WindowsApps\Microsoft.WindowsTerminal\WindowsTerminal.exe
