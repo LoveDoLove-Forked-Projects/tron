@@ -102,7 +102,7 @@ Command-line use is fully supported. All switches are optional and can be used s
 
      -scs Skip custom scripts (has no effect if you haven't supplied custom scripts)
 
-     -scc Skip cookie cleanup (not recommended, Tron auto-preserves most common login cookies)
+     -scc Skip cookie cleanup (not recommended, Tron preserves most common login cookies)
 
      -sd  Skip defrag (force Tron to ALWAYS skip Stage 6 defrag)
 
